@@ -1,16 +1,14 @@
 <div align="center">
-  <img src="https://cs50.harvard.edu/assets/img/cs50.png" alt="CS50 Logo" width="200">
-  
-  <h1><span style="color: maroon;">This is CS50.</span></h1>
-
-  <h2>CS50’s Introduction to Programming with Python Final Project</h2>
-  
-  <h3><span style="color: maroon;">A’adel Sayyahi</span></h3>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Harvard_University_coat_of_arms.svg/800px-Harvard_University_coat_of_arms.svg.png" height=250>
+    <p> 2022</p>
+    <h1> Harvard CS50: Introduction to Programing with Python </h1>
+  <h2><span style="color: maroon;">A’adel Sayyahi</span></h2>
 </div>
 
 
-
-# BMI Calculator & Fatty Liver Probability 🧮
+<div align="center">
+      <h1> 🧮 BMI Calculator & Fatty Liver Probability </h1>
+</div>
 
 ## 📖 Description
 Fatty liver disease occurs when excess fat accumulates in the liver cells. Factors such as high-fat food consumption, alcohol intake, diabetes, and obesity contribute to this condition. A high **BMI (Body Mass Index)**—especially over 25—can increase the risk of fatty liver.
@@ -27,7 +25,6 @@ The classification is as follows:
 
 Although BMI is a useful indicator, diagnosing fatty liver requires **medical tests** such as blood analysis and ultrasound imaging. This program provides only an **estimated probability** of fatty liver based on BMI.
 
----
 
 ## 💻 About the Project
 ### 📌 Introduction
@@ -54,16 +51,14 @@ This Python-based **BMI Calculator & Fatty Liver Probability Estimator** provide
 6. **Main Function**:
    - Runs the **PyQt5 application loop**
 
----
 
 ## 📸 Sample Test with Images
 Below is an example of the program in action, displaying BMI calculations with two sample images:
 
-![Sample Test 1](01.png)
-
-![Sample Test 2](02.png)
-
----
+<div style="display: flex; justify-content: center; gap: 20px;">
+    <img src="01.png" alt="Sample Test 1" style="width: 300px; height: 300px;">
+    <img src="02.png" alt="Sample Test 2" style="width: 300px; height: 300px;">
+</div>
 
 ## ✅ Conclusion
 This project provides a simple **BMI calculator** with **fatty liver probability estimation**. While BMI is a useful health indicator, a **medical diagnosis** is necessary for confirming fatty liver disease.
